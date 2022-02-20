@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tikawa-v2/static/css/main.e6c13ad2.css",
+    "main.js": "/tikawa-v2/static/js/main.a38c05f6.js",
+    "index.html": "/tikawa-v2/index.html",
+    "main.e6c13ad2.css.map": "/tikawa-v2/static/css/main.e6c13ad2.css.map",
+    "main.a38c05f6.js.map": "/tikawa-v2/static/js/main.a38c05f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a38c05f6.js"
+  ]
+}
